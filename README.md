@@ -1,5 +1,6 @@
 # [Project 1: Noise](https://github.com/CIS-566-Fall-2022/hw01-fireball-base)
 
+Webpage: https://beckyfeng08.github.io/hw01-fireball/
 ## Description
 
 The scene is generated based upon three shaders, and a couple of icospheres. 
